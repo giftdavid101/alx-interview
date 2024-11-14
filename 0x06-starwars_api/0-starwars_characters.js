@@ -1,4 +1,6 @@
 #!/usr/bin/node
+//prints all characters in movie
+
 
 const request = require('request');
 
